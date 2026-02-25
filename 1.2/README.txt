@@ -23,3 +23,6 @@ it can modify multiples skins in the same run
 ##################
 
 just put your skin in with the script and run it
+
+to add preset you have to take a skin and moddify it so that
+the pixels whos going to be replaced by your skin are in (0, 0, 0) and the "air" in (255, 255, 255)
