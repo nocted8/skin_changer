@@ -15,6 +15,7 @@ added more "clothes" and updated the script
 v1.2
 updated the script so that "clothes" names are not fix and skin are just put with the script
 it can modify multiples skins in the same run
+v1.2.1 - changed getdata() to get_flattened_data()
 
 ##################
 #                #
