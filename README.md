@@ -11,3 +11,5 @@ windows may not authorize it at first if "smart application control" is enabled
 if you want to compile the source code yourself use this command in the source code directory using the nuitka python compiler
 
 python -m nuitka .\skin_changer_v1.3.1.py --enable-plugin=tk-inter --windows-console-mode=disable
+
+i am not a ui designer, i am sorry if the ui makes you cry
